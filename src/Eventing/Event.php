@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Eventing;
+namespace Aristarchusskywatcher\Chat\Eventing;
 
 class Event
 {
