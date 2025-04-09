@@ -4,8 +4,8 @@ namespace Musonza\Chat\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use Musonza\Chat\BaseModel;
-use Musonza\Chat\ConfigurationManager;
+use Aristarchusskywatcher\Chat\BaseModel;
+use Aristarchusskywatcher\Chat\ConfigurationManager;
 
 class MessageNotification extends BaseModel
 {
