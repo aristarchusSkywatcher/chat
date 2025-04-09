@@ -1,5 +1,5 @@
 {
-    "name": "musonza/chat",
+    "name": "aristarchusskywatcher/chat",
     "description": "Chat Package for Laravel",
     "type": "library",
     "keywords": [
@@ -30,12 +30,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Musonza\\Chat\\": "src/"
+            "Aristarchusskywatcher\\Chat\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Musonza\\Chat\\Tests\\": "tests"
+            "Aristarchusskywatcher\\Chat\\Tests\\": "tests"
         },
         "files": [
             "tests/Helpers/Models.php"
@@ -47,10 +47,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Musonza\\Chat\\ChatServiceProvider"
+                "Aristarchusskywatcher\\Chat\\ChatServiceProvider"
             ],
             "aliases": {
-                "Chat": "Musonza\\Chat\\Facades\\ChatFacade"
+                "Chat": "Aristarchusskywatcher\\Chat\\Facades\\ChatFacade"
             }
         }
     }
