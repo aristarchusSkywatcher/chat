@@ -3,10 +3,10 @@
 namespace Musonza\Chat\Http\Controllers;
 
 use Chat;
-use Musonza\Chat\Http\Requests\StoreParticipation;
-use Musonza\Chat\Http\Requests\UpdateParticipation;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Models\Participation;
+use Aristarchusskywatcher\Chat\Http\Requests\StoreParticipation;
+use Aristarchusskywatcher\Chat\Http\Requests\UpdateParticipation;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Participation;
 use Symfony\Component\HttpFoundation\Response;
 
 class ConversationParticipationController extends Controller
