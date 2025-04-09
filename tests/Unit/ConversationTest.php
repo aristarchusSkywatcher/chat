@@ -1,15 +1,15 @@
 <?php
 
-namespace Musonza\Chat\Tests;
+namespace Aristarchusskywatcher\Chat\Tests;
 
 use Chat;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Illuminate\Support\Collection;
-use Musonza\Chat\Exceptions\DirectMessagingExistsException;
-use Musonza\Chat\Exceptions\InvalidDirectMessageNumberOfParticipants;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Models\Participation;
-use Musonza\Chat\Tests\Helpers\Models\Client;
+use Aristarchusskywatcher\Chat\Exceptions\DirectMessagingExistsException;
+use Aristarchusskywatcher\Chat\Exceptions\InvalidDirectMessageNumberOfParticipants;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Participation;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Client;
 
 class ConversationTest extends TestCase
 {
