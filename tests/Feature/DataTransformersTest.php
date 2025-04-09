@@ -1,10 +1,10 @@
 <?php
 
-namespace Musonza\Chat\Tests\Feature;
+namespace Aristarchusskywatcher\Chat\Tests\Feature;
 
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Tests\Helpers\Transformers\TestConversationTransformer;
-use Musonza\Chat\Tests\TestCase;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Transformers\TestConversationTransformer;
+use Aristarchusskywatcher\Chat\Tests\TestCase;
 
 class DataTransformersTest extends TestCase
 {
