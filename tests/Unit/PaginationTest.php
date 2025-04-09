@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Tests;
+namespace Aristarchusskywatcher\Chat\Tests;
 
 use Chat;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
