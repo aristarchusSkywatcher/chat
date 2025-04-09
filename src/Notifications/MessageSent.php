@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Notifications;
+namespace Aristarchusskywatcher\Chat\Notifications;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Notifications\Notification;
