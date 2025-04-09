@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Http\Requests;
+namespace Aristarchusskywatcher\Chat\Http\Requests;
 
 class StoreMessage extends BaseRequest
 {
