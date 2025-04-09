@@ -1,11 +1,11 @@
 <?php
 
-namespace Musonza\Chat\Models;
+namespace Aristarchusskywatcher\Chat\Models;
 
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 //use Illuminate\Database\Eloquent\SoftDeletes;
-use Musonza\Chat\BaseModel;
-use Musonza\Chat\ConfigurationManager;
+use Aristarchusskywatcher\Chat\BaseModel;
+use Aristarchusskywatcher\Chat\ConfigurationManager;
 
 class Participation extends BaseModel
 {
