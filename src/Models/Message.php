@@ -1,14 +1,14 @@
 <?php
 
-namespace Musonza\Chat\Models;
+namespace Aristarchusskywatcher\Chat\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Musonza\Chat\BaseModel;
-use Musonza\Chat\Chat;
-use Musonza\Chat\ConfigurationManager;
-use Musonza\Chat\Eventing\AllParticipantsDeletedMessage;
-use Musonza\Chat\Eventing\EventGenerator;
-use Musonza\Chat\Eventing\MessageWasSent;
+use Aristarchusskywatcher\Chat\BaseModel;
+use Aristarchusskywatcher\Chat\Chat;
+use Aristarchusskywatcher\Chat\ConfigurationManager;
+use Aristarchusskywatcher\Chat\Eventing\AllParticipantsDeletedMessage;
+use Aristarchusskywatcher\Chat\Eventing\EventGenerator;
+use Aristarchusskywatcher\Chat\Eventing\MessageWasSent;
 
 class Message extends BaseModel
 {
