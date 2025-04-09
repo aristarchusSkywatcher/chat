@@ -1,10 +1,10 @@
 <?php
 
-namespace Musonza\Chat\Messages;
+namespace Aristarchusskywatcher\Chat\Messages;
 
 use Illuminate\Database\Eloquent\Model;
-use Musonza\Chat\Eventing\EventDispatcher;
-use Musonza\Chat\Models\Message;
+use Aristarchusskywatcher\Chat\Eventing\EventDispatcher;
+use Aristarchusskywatcher\Chat\Models\Message;
 
 class SendMessageCommandHandler
 {
