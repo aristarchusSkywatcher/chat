@@ -1,11 +1,11 @@
 <?php
 
-namespace Musonza\Chat\Traits;
+namespace Aristarchusskywatcher\Chat\Traits;
 
 use Illuminate\Database\Eloquent\Relations\MorphMany;
-use Musonza\Chat\Exceptions\InvalidDirectMessageNumberOfParticipants;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Models\Participation;
+use Aristarchusskywatcher\Chat\Exceptions\InvalidDirectMessageNumberOfParticipants;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Participation;
 
 trait Messageable
 {
