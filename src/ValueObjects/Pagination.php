@@ -1,8 +1,8 @@
 <?php
 
-namespace Musonza\Chat\ValueObjects;
+namespace Aristarchusskywatcher\Chat\ValueObjects;
 
-use Musonza\Chat\ConfigurationManager;
+use Aristarchusskywatcher\Chat\ConfigurationManager;
 
 class Pagination
 {
