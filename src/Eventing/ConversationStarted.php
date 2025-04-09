@@ -1,8 +1,8 @@
 <?php
 
-namespace Musonza\Chat\Eventing;
+namespace Aristarchusskywatcher\Chat\Eventing;
 
-use Musonza\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Conversation;
 
 class ConversationStarted extends Event
 {
