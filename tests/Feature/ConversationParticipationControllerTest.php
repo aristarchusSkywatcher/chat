@@ -1,13 +1,13 @@
 <?php
 
-namespace Musonza\Chat\Tests\Feature;
+namespace Aristarchusskywatcher\Chat\Tests\Feature;
 
 use Chat;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Models\Participation;
-use Musonza\Chat\Tests\Helpers\Models\Client;
-use Musonza\Chat\Tests\Helpers\Models\User;
-use Musonza\Chat\Tests\TestCase;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Participation;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Client;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\User;
+use Aristarchusskywatcher\Chat\Tests\TestCase;
 
 class ConversationParticipationControllerTest extends TestCase
 {
