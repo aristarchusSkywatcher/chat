@@ -1,9 +1,9 @@
 <?php
 
-namespace Musonza\Chat\Tests\Helpers\Models;
+namespace Aristarchusskywatcher\Chat\Tests\Helpers\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Musonza\Chat\Traits\Messageable;
+use Aristarchusskywatcher\Chat\Traits\Messageable;
 
 class User extends Model
 {
