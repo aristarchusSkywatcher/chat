@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Traits;
+namespace Aristarchusskywatcher\Chat\Traits;
 
 use Illuminate\Database\Eloquent\Model;
 
