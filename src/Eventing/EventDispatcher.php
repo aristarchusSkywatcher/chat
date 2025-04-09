@@ -1,9 +1,9 @@
 <?php
 
-namespace Musonza\Chat\Eventing;
+namespace Aristarchusskywatcher\Chat\Eventing;
 
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
-use Musonza\Chat\Chat;
+use Aristarchusskywatcher\Chat\Chat;
 
 class EventDispatcher
 {
