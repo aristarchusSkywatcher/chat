@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Exceptions;
+namespace Aristarchusskywatcher\Chat\Exceptions;
 
 use Exception;
 
