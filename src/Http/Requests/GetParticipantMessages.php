@@ -1,8 +1,8 @@
 <?php
 
-namespace Musonza\Chat\Http\Requests;
+namespace Aristarchusskywatcher\Chat\Http\Requests;
 
-use Musonza\Chat\ValueObjects\Pagination;
+use Aristarchusskywatcher\Chat\ValueObjects\Pagination;
 
 class GetParticipantMessages extends BaseRequest
 {
