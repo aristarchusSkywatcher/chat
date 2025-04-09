@@ -1,8 +1,8 @@
 <?php
 
-namespace Musonza\Chat\Eventing;
+namespace Aristarchusskywatcher\Chat\Eventing;
 
-use Musonza\Chat\Models\Message;
+use Aristarchusskywatcher\Chat\Models\Message;
 
 class AllParticipantsDeletedMessage extends Event
 {
