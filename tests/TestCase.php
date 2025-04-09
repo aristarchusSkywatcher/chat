@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Tests;
+namespace Aristarchusskywatcher\Chat\Tests;
 
 require __DIR__.'/../database/migrations/create_chat_tables.php';
 require __DIR__.'/Helpers/migrations.php';
@@ -8,9 +8,9 @@ require __DIR__.'/Helpers/migrations.php';
 use CreateChatTables;
 use CreateTestTables;
 use Illuminate\Foundation\Application;
-use Musonza\Chat\ChatServiceProvider;
-use Musonza\Chat\Facades\ChatFacade;
-use Musonza\Chat\Tests\Helpers\Models\User;
+use Aristarchusskywatcher\Chat\ChatServiceProvider;
+use Aristarchusskywatcher\Chat\Facades\ChatFacade;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\User;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {
