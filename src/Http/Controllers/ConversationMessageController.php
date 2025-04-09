@@ -1,12 +1,12 @@
 <?php
 
-namespace Musonza\Chat\Http\Controllers;
+namespace Aristarchusskywatcher\Chat\Http\Controllers;
 
 use Chat;
-use Musonza\Chat\Http\Requests\ClearConversation;
-use Musonza\Chat\Http\Requests\DeleteMessage;
-use Musonza\Chat\Http\Requests\GetParticipantMessages;
-use Musonza\Chat\Http\Requests\StoreMessage;
+use Aristarchusskywatcher\Chat\Http\Requests\ClearConversation;
+use Aristarchusskywatcher\Chat\Http\Requests\DeleteMessage;
+use Aristarchusskywatcher\Chat\Http\Requests\GetParticipantMessages;
+use Aristarchusskywatcher\Chat\Http\Requests\StoreMessage;
 
 class ConversationMessageController extends Controller
 {
