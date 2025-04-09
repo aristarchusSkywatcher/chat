@@ -1,9 +1,9 @@
 <?php
 
-namespace Musonza\Chat\Messages;
+namespace Aristarchusskywatcher\Chat\Messages;
 
 use Illuminate\Database\Eloquent\Model;
-use Musonza\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Conversation;
 
 class SendMessageCommand
 {
