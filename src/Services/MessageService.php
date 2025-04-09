@@ -1,12 +1,12 @@
 <?php
 
-namespace Musonza\Chat\Services;
+namespace Aristarchusskywatcher\Chat\Services;
 
 use Exception;
-use Musonza\Chat\Commanding\CommandBus;
-use Musonza\Chat\Messages\SendMessageCommand;
-use Musonza\Chat\Models\Message;
-use Musonza\Chat\Traits\SetsParticipants;
+use Aristarchusskywatcher\Chat\Commanding\CommandBus;
+use Aristarchusskywatcher\Chat\Messages\SendMessageCommand;
+use Aristarchusskywatcher\Chat\Models\Message;
+use Aristarchusskywatcher\Chat\Traits\SetsParticipants;
 
 class MessageService
 {
