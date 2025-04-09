@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat;
+namespace Aristarchusskywatcher\Chat;
 
 use Illuminate\Support\ServiceProvider;
 
