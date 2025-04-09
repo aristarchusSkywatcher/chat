@@ -5,10 +5,10 @@ namespace Musonza\Chat\Services;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Collection;
-use Musonza\Chat\Eventing\ConversationStarted;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Traits\Paginates;
-use Musonza\Chat\Traits\SetsParticipants;
+use Aristarchusskywatcher\Chat\Eventing\ConversationStarted;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Traits\Paginates;
+use Aristarchusskywatcher\Chat\Traits\SetsParticipants;
 
 class ConversationService
 {
