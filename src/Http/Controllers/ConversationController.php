@@ -1,16 +1,16 @@
 <?php
 
-namespace Musonza\Chat\Http\Controllers;
+namespace Aristarchusskywatcher\Chat\Http\Controllers;
 
 use Chat;
 use Exception;
 use Illuminate\Contracts\Routing\ResponseFactory;
 use Illuminate\Http\Response;
-use Musonza\Chat\Exceptions\DeletingConversationWithParticipantsException;
-use Musonza\Chat\Http\Requests\DestroyConversation;
-use Musonza\Chat\Http\Requests\StoreConversation;
-use Musonza\Chat\Http\Requests\UpdateConversation;
-use Musonza\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Exceptions\DeletingConversationWithParticipantsException;
+use Aristarchusskywatcher\Chat\Http\Requests\DestroyConversation;
+use Aristarchusskywatcher\Chat\Http\Requests\StoreConversation;
+use Aristarchusskywatcher\Chat\Http\Requests\UpdateConversation;
+use Aristarchusskywatcher\Chat\Models\Conversation;
 use Symfony\Component\HttpFoundation\Response as HttpResponse;
 
 class ConversationController extends Controller
