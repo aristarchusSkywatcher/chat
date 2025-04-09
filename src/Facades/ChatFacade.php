@@ -1,9 +1,9 @@
 <?php
 
-namespace Musonza\Chat\Facades;
+namespace Aristarchusskywatcher\Chat\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Musonza\Chat\Chat;
+use Aristarchusskywatcher\Chat\Chat;
 
 class ChatFacade extends Facade
 {
