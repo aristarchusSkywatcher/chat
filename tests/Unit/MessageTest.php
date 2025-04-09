@@ -1,14 +1,14 @@
 <?php
 
-namespace Musonza\Chat\Tests;
+namespace Aristarchusskywatcher\Chat\Tests;
 
 use Chat;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Models\Message;
-use Musonza\Chat\Tests\Helpers\Models\Bot;
-use Musonza\Chat\Tests\Helpers\Models\Client;
-use Musonza\Chat\Tests\Helpers\Models\User;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\Message;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Bot;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Client;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\User;
 
 class MessageTest extends TestCase
 {
