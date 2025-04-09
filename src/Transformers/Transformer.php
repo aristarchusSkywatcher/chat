@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Transformers;
+namespace Aristarchusskywatcher\Chat\Transformers;
 
 use League\Fractal;
 use League\Fractal\Manager;
