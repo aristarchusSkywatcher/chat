@@ -1,8 +1,8 @@
 <?php
 
-namespace Musonza\Chat\Tests\Helpers\Transformers;
+namespace Aristarchusskywatcher\Chat\Tests\Helpers\Transformers;
 
-use Musonza\Chat\Transformers\Transformer;
+use Aristarchusskywatcher\Chat\Transformers\Transformer;
 
 class TestConversationTransformer extends Transformer
 {
