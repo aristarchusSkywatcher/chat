@@ -1,10 +1,10 @@
 <?php
 
 use Faker\Generator as Faker;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Tests\Helpers\Models\Bot;
-use Musonza\Chat\Tests\Helpers\Models\Client;
-use Musonza\Chat\Tests\Helpers\Models\User;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Bot;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Client;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\User;
 
 /*
 |--------------------------------------------------------------------------
