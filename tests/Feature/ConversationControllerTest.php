@@ -1,14 +1,14 @@
 <?php
 
-namespace Musonza\Chat\Tests\Feature\Conversation;
+namespace Aristarchusskywatcher\Chat\Tests\Feature\Conversation;
 
 use Chat;
-use Musonza\Chat\ConfigurationManager;
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Tests\Helpers\Models\Bot;
-use Musonza\Chat\Tests\Helpers\Models\Client;
-use Musonza\Chat\Tests\Helpers\Models\User;
-use Musonza\Chat\Tests\TestCase;
+use Aristarchusskywatcher\Chat\ConfigurationManager;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Bot;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\Client;
+use Aristarchusskywatcher\Chat\Tests\Helpers\Models\User;
+use Aristarchusskywatcher\Chat\Tests\TestCase;
 use Symfony\Component\HttpFoundation\Response;
 
 class ConversationControllerTest extends TestCase
