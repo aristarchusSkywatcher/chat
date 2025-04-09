@@ -8,7 +8,7 @@ use Illuminate\Broadcasting\PrivateChannel;
 use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
 use Illuminate\Foundation\Events\Dispatchable;
 use Illuminate\Queue\SerializesModels;
-use Musonza\Chat\Models\Message;
+use Aristarchusskywatcher\Chat\Models\Message;
 
 class MessageWasSent extends Event implements ShouldBroadcast
 {
