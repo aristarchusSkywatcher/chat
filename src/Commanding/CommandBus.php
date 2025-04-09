@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Commanding;
+namespace Aristarchusskywatcher\Chat\Commanding;
 
 use Exception;
 use Illuminate\Foundation\Application;
