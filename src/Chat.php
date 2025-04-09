@@ -1,12 +1,12 @@
 <?php
 
-namespace Musonza\Chat;
+namespace Aristarchusskywatcher\Chat;
 
-use Musonza\Chat\Models\Conversation;
-use Musonza\Chat\Models\MessageNotification;
-use Musonza\Chat\Services\ConversationService;
-use Musonza\Chat\Services\MessageService;
-use Musonza\Chat\Traits\SetsParticipants;
+use Aristarchusskywatcher\Chat\Models\Conversation;
+use Aristarchusskywatcher\Chat\Models\MessageNotification;
+use Aristarchusskywatcher\Chat\Services\ConversationService;
+use Aristarchusskywatcher\Chat\Services\MessageService;
+use Aristarchusskywatcher\Chat\Traits\SetsParticipants;
 
 class Chat
 {
