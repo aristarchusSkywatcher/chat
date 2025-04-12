@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Http\Controllers;
+namespace Aristarchusskywatcher\Chat\Http\Controllers;
 
 use Chat;
 use Aristarchusskywatcher\Chat\Http\Requests\StoreParticipation;
