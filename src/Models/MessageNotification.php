@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Models;
+namespace Aristarchusskywatcher\Chat\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
