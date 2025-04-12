@@ -1,6 +1,6 @@
 <?php
 
-namespace Musonza\Chat\Services;
+namespace Aristarchusskywatcher\Chat\Services;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Pagination\LengthAwarePaginator;
